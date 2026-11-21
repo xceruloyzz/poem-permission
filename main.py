@@ -7,7 +7,7 @@ POEM = (
     "May I? I asked the locked door.\n"
     "It said nothing. So I asked the key.\n"
     "The key said nothing. So I asked my hands\u2014\n"
-    "and my hands, at last, said yes."
+    "and my hands said yes."
 )
 
 def main() -> None:
